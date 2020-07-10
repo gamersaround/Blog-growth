@@ -8,4 +8,4 @@ cta:
   ctaText: En savoir plus
   ctaLink: /about
 ---
-Fondateur de Misapret et passioné de tech & Growth Hacking
+Fondateur de Misapret et passionné de tech & Growth Hacking
