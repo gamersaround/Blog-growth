@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Growth Detective",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Site de référence en Growth , je partage mes expériences et aventures marketing. Made with ❤ by Me",
+    "siteUrl": "https://www.grptjtjet.com",
     "image": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
